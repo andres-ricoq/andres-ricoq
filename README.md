@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Andres Rico 👋
 
-<!--
-**andres-ricoq/andres-ricoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechatronic Engineer and AI Master's student  
+🤖 Passionate about Machine Learning and Data Science  
+📊 Experienced in building data-driven solutions and predictive models  
 
-Here are some ideas to get you started:
+## Projects
+- Hypertension Risk Prediction (Machine Learning - Healthcare)
+- Bike Demand Prediction (Regression & Forecasting)
+- Landing Page for Digital Commerce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python, SQL, JavaScript
+- Scikit-learn, Pandas, NumPy
+- Machine Learning, Data Analysis
+
+## Contact
+- LinkedIn: https://linkedin.com/in/andresricoq
+- Phone number (+57)3154054019
