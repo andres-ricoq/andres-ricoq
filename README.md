@@ -1,8 +1,8 @@
-# Hi, I'm Andres Rico 👋
+# Hi, I'm Andres Rico 
 
-🎓 Mechatronic Engineer and AI Master's student  
-🤖 Passionate about Machine Learning and Data Science  
-📊 Experienced in building data-driven solutions and predictive models  
+Mechatronic Engineer and AI Master's student  
+Passionate about Machine Learning and Data Science  
+Experienced in building data-driven solutions and predictive models  
 
 ## Projects
 - Hypertension Risk Prediction (Machine Learning - Healthcare)
