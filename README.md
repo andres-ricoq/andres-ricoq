@@ -1,19 +1,27 @@
-# Hi, I'm Andres Rico 
+# Hi, I'm Andres Rico 👋
 
-Mechatronic Engineer and AI Master's student  
-Passionate about Machine Learning and Data Science  
-Experienced in building data-driven solutions and predictive models  
+AI Engineer | Mechatronics Engineer  
+
+Focused on Machine Learning, optimization, and predictive modeling.  
+Experienced in building end-to-end data-driven solutions, including healthcare risk prediction, demand forecasting, and optimization of statistical models using techniques such as BFGS and analytical gradients.
+
+---
 
 ## Projects
-- Hypertension Risk Prediction (Machine Learning - Healthcare)
-- Bike Demand Prediction (Regression & Forecasting)
-- Landing Page for Digital Commerce
+- **Breast Cancer Classification (Logistic Regression Optimization - BFGS, Gradient & Hessian Analysis)**
+- **Hypertension Risk Prediction (Healthcare ML Classification)**
+- **Bike Demand Prediction (Time Series & Regression)**
+- **Landing Page for Digital Commerce**
+
+---
 
 ## Tech Stack
-- Python, SQL, JavaScript
-- Scikit-learn, Pandas, NumPy
-- Machine Learning, Data Analysis
+- **Languages:** Python, SQL, JavaScript  
+- **Libraries:** Scikit-learn, Pandas, NumPy, SciPy  
+- **Core Skills:** Machine Learning, Optimization, Data Analysis  
+
+---
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/andresricoq
-- Phone number (+57)3154054019
+- Phone number: (+57) 3154054019
