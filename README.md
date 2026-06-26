@@ -1,4 +1,4 @@
-# Hi, I'm Andres Rico 👋
+# Hi, I'm Andres Rico (:
 
 Mechatronics Engineer | AI Engineer | Database & Data Solutions
 
