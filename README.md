@@ -33,8 +33,6 @@ PostgreSQL administration project developed as a DBA technical challenge, includ
 * Cloud deployment using Neon PostgreSQL.
 * Bash automation.
 
-Repository:
-https://github.com/andres-ricoq/enterprise-postgresql-administration
 
 ---
 
