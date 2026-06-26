@@ -1,27 +1,126 @@
 # Hi, I'm Andres Rico 👋
 
-AI Engineer | Mechatronics Engineer  
+Mechatronics Engineer | AI Engineer | Database Administration & Data Solutions
 
-Focused on Machine Learning, optimization, and predictive modeling.  
-Experienced in building end-to-end data-driven solutions, including healthcare risk prediction, demand forecasting, and optimization of statistical models using techniques such as BFGS and analytical gradients.
-
----
-
-## Projects
-- **Breast Cancer Classification (Logistic Regression Optimization - BFGS, Gradient & Hessian Analysis)**
-- **Hypertension Risk Prediction (Healthcare ML Classification)**
-- **Bike Demand Prediction (Time Series & Regression)**
-- **Landing Page for Digital Commerce**
+Passionate about Artificial Intelligence, Machine Learning, database administration, and data-driven solutions. Experienced in designing predictive models, optimizing analytical processes, and implementing PostgreSQL administration, monitoring, automation, and cloud database environments.
 
 ---
 
-## Tech Stack
-- **Languages:** Python, SQL, JavaScript  
-- **Libraries:** Scikit-learn, Pandas, NumPy, SciPy  
-- **Core Skills:** Machine Learning, Optimization, Data Analysis  
+## Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Database Administration
+* Data Engineering
+* Cloud Databases
+* Predictive Analytics
+* Process Automation
+
+---
+
+## Featured Projects
+
+### Enterprise PostgreSQL Administration
+
+PostgreSQL administration project developed as a DBA technical challenge, including:
+
+* Database administration.
+* SQL optimization.
+* Backup and recovery.
+* Monitoring and observability.
+* Security and auditing.
+* Incident management.
+* Cloud deployment using Neon PostgreSQL.
+* Bash automation.
+
+Repository:
+https://github.com/andres-ricoq/enterprise-postgresql-administration
+
+---
+
+### Hypertension Risk Prediction
+
+Machine learning classification project for healthcare risk prediction.
+
+Technologies:
+
+* Python
+* Scikit-learn
+* Pandas
+* GridSearchCV
+
+---
+
+### Breast Cancer Classification
+
+Logistic Regression optimization using:
+
+* BFGS optimization
+* Gradient analysis
+* Hessian analysis
+* Numerical optimization
+
+---
+
+### Bike Demand Prediction
+
+Demand forecasting and regression models for urban mobility analysis.
+
+---
+
+## Technical Skills
+
+### Programming
+
+* Python
+* SQL
+* JavaScript
+* Bash
+
+### Data & AI
+
+* Scikit-learn
+* Pandas
+* NumPy
+* SciPy
+* Machine Learning
+* Predictive Modeling
+
+### Database Technologies
+
+* PostgreSQL
+* pgAdmin
+* SQL Optimization
+* Backup & Recovery
+* Monitoring
+* Performance Tuning
+* Database Security
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Linux
+* WSL2
+* Neon PostgreSQL
+
+---
+
+## Certifications & Education
+
+* Mechatronics Engineer
+* Master's Degree in Artificial Intelligence (ongoing)
 
 ---
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/andresricoq
-- Phone number: (+57) 3154054019
+
+LinkedIn:
+https://linkedin.com/in/andresricoq
+
+Email:
+andresricoq@gmail.com
+
+Phone:
+(+57) 3154054019
