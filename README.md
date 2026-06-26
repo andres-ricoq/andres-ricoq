@@ -1,8 +1,8 @@
 # Hi, I'm Andres Rico 👋
 
-Mechatronics Engineer | AI Engineer | Database Administration & Data Solutions
+Mechatronics Engineer | AI Engineer | Database & Data Solutions
 
-Passionate about Artificial Intelligence, Machine Learning, database administration, and data-driven solutions. Experienced in designing predictive models, optimizing analytical processes, and implementing PostgreSQL administration, monitoring, automation, and cloud database environments.
+Passionate about Artificial Intelligence, Machine Learning, database administration, and data-driven systems. Experienced in predictive modeling, optimization, cloud databases, and AI-powered applications.
 
 ---
 
@@ -12,57 +12,71 @@ Passionate about Artificial Intelligence, Machine Learning, database administrat
 * Machine Learning
 * Database Administration
 * Data Engineering
+* Generative AI
 * Cloud Databases
-* Predictive Analytics
-* Process Automation
+* MLOps
+* Data Analytics
 
 ---
 
 ## Featured Projects
 
+### AI Support Ticket Analyzer
+
+AI-powered support ticket analysis platform combining:
+
+* FastAPI backend.
+* Google Gemini integration.
+* Streamlit dashboard.
+* SQLite database.
+* Simplified RAG architecture.
+* Ticket classification and prioritization.
+* Support policy question answering.
+
+Technologies:
+Python, FastAPI, Gemini, Streamlit, SQLAlchemy, SQLite.
+
+---
+
 ### Enterprise PostgreSQL Administration
 
-PostgreSQL administration project developed as a DBA technical challenge, including:
+PostgreSQL administration project covering:
 
-* Database administration.
+* Backup & Recovery.
+* Monitoring.
+* Security.
+* Incident Management.
+* Cloud deployment.
 * SQL optimization.
-* Backup and recovery.
-* Monitoring and observability.
-* Security and auditing.
-* Incident management.
-* Cloud deployment using Neon PostgreSQL.
 * Bash automation.
 
+Technologies:
+PostgreSQL, pgAdmin, Linux, Bash, Neon.
 
 ---
 
 ### Hypertension Risk Prediction
 
-Machine learning classification project for healthcare risk prediction.
+Machine learning project for healthcare risk prediction using classification models and hyperparameter optimization.
 
 Technologies:
-
-* Python
-* Scikit-learn
-* Pandas
-* GridSearchCV
+Python, Scikit-learn, Pandas.
 
 ---
 
 ### Breast Cancer Classification
 
-Logistic Regression optimization using:
+Implementation of Logistic Regression optimization using:
 
-* BFGS optimization
-* Gradient analysis
-* Hessian analysis
-* Numerical optimization
+* BFGS.
+* Gradient analysis.
+* Hessian analysis.
 
 ---
 
 ### Bike Demand Prediction
 
-Demand forecasting and regression models for urban mobility analysis.
+Regression and demand forecasting models for urban mobility.
 
 ---
 
@@ -75,40 +89,49 @@ Demand forecasting and regression models for urban mobility analysis.
 * JavaScript
 * Bash
 
-### Data & AI
+### AI & Data Science
 
+* Machine Learning
 * Scikit-learn
 * Pandas
 * NumPy
 * SciPy
-* Machine Learning
-* Predictive Modeling
+* Generative AI
+* Prompt Engineering
 
-### Database Technologies
+### Backend & APIs
+
+* FastAPI
+* REST APIs
+* SQLAlchemy
+* Streamlit
+
+### Databases
 
 * PostgreSQL
-* pgAdmin
-* SQL Optimization
+* SQLite
+* Database Administration
+* Query Optimization
 * Backup & Recovery
-* Monitoring
-* Performance Tuning
-* Database Security
 
 ### Tools
 
 * Git
 * GitHub
-* VS Code
 * Linux
-* WSL2
+* VS Code
+* pgAdmin
 * Neon PostgreSQL
 
 ---
 
-## Certifications & Education
+## Current Focus
 
-* Mechatronics Engineer
-* Master's Degree in Artificial Intelligence (ongoing)
+* Artificial Intelligence Applications
+* Database Administration
+* Generative AI Systems
+* Data Engineering
+* Cloud Databases
 
 ---
 
@@ -117,8 +140,6 @@ Demand forecasting and regression models for urban mobility analysis.
 LinkedIn:
 https://linkedin.com/in/andresricoq
 
-Email:
-andresricoq@gmail.com
-
 Phone:
 (+57) 3154054019
+
